@@ -13,9 +13,12 @@ GNN综述阅读报告，报告涵盖有多篇GNN方面的论文，以及一个�
 |-/PyG和Pytorch实现GNN模型 # PyG和Pytorch的GNN模型实现文档和代码
   |-cora/                # cora数据集
   |-pic/                 # 文档图片
+  |-data/                # 数据集文件夹
   |-Cora数据集.md         # Cora数据集介绍文档
   |-GNN_Implement_with_Pytorch.ipynb  # 使用Pytorch实现GCN和Linear GNN示例
   |-GNN_Implemet_with_PyG.ipynb   # 使用PyG实现GCN示例
+  |-GNN与子图匹配.ipynb    # GNN的子图匹配示例
+  |-GNN的Batch示例.ipynb  # GNN训练的Batch实现示例
   |-PyG.md               # PyG框架阅读报告
 ```
 
