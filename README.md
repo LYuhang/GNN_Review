@@ -38,4 +38,6 @@ GNN综述阅读报告，报告涵盖有多篇GNN方面的论文，以及一个�
 
 + PyG 1.7.2
 
-  > 由于在Windows上安装PyG容易出错，所以建议先从https://pytorch-geometric.com/whl/torch-1.7.0+cu110.html手动安装.whl，然后使用命令`pip install torch-geometric -f https://pytorch-geometric.com/whl/torch-1.7.0+cu110.html`安装PyG。
+  > 由于在Windows上安装PyG容易出错，所以建议先从[网站](https://pytorch-geometric.com/whl/torch-1.7.0+cu110.html)手动安装.whl，然后使用下述命令安装PyG:
+  >
+  > + `pip install torch-geometric -f https://pytorch-geometric.com/whl/torch-1.7.0+cu110.html`
